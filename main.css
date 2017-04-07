@@ -1,0 +1,47 @@
+nav {
+	background-color: #E7B85B;
+	padding: 15px 0;
+}
+
+nav h2 {
+	margin-bottom: 0;
+	font-size: 18px;
+	font-weight: normal;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	font-size: 24px;
+}
+
+nav h1 {
+	margin: 0;
+}
+
+main {
+	padding-top: 30px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.caption {
+	padding: 10px;
+}
+
+.caption h3 {
+	margin-top: 0;
+}
+
+.caption p {
+	margin-bottom: 0;
+	font-size: 11px;
+}
+
+.character {
+	text-align: left;
+	border: 1px solid lightgrey;
+	margin-bottom: 20px;
+}
